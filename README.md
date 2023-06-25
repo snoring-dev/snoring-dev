@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React.js, NextJS & React Native**
 
-- 📫 How to reach me **jemmoudi.med@proton.me**
+- 📫 How to reach me **med.jemmoudi@gmail.com**
 
 - 📄 Know about my experiences [https://resume.io/r/uMknwdc6R](https://resume.io/r/uMknwdc6R)
 
