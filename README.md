@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **med.jemmoudi@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/uMknwdc6R](https://resume.io/r/uMknwdc6R)
+- 📄 Know about my experiences [https://snoring.dev/resume/en](https://snoring.dev/resume/en)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
