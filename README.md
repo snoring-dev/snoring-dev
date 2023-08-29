@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Jemmoudi</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
-- 🌱 I’m currently learning **Ruby, Rails & Flutter**
+- 🌱 I’m currently learning **NestJS & AWS**
 
 - 💬 Ask me about **React.js, NextJS & React Native**
 
